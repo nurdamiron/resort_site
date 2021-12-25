@@ -1,5 +1,5 @@
 # resort_site
-#Front End
-#Dauren Ayazbaev
-#Team:
-#Akhmatov Nurdaulet, Kamil Malik
+# Front End
+# Dauren Ayazbaev
+# Team:
+# Akhmatov Nurdaulet, Kamil Malik
